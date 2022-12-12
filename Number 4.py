@@ -53,7 +53,7 @@ Base.dropna(axis = 1, inplace = True)
 
 # In[8]:
 
-
+#Number of unique values
 Base.Year.nunique()
 
 
